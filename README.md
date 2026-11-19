@@ -1,0 +1,2 @@
+# METEO
+Meteo állomás frissítései
